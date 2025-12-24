@@ -50,8 +50,8 @@ I'm a final-year engineering student specializing in full-stack development and 
 ### GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Imane's GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imane-rachidi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Imane's GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imane-rachidi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180"/>
 
 </div>
 
